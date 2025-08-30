@@ -1,3 +1,4 @@
 requests
 ecdsa
 base58
+bitcoin
